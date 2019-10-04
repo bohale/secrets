@@ -99,3 +99,6 @@ public
 
 # TernJS port file
 .tern-port
+
+#MacOC files
+.DS_Store
